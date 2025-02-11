@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://arman-portfolio-three.vercel.app/](https://arman-portfolio-three.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://arman-portfolio-three.vercel.app/](https://arman-portfolio-v2.vercel.app/)
 
 - 📫 How to reach me **armanp384@gmail.com**
 
