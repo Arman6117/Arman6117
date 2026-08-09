@@ -1,24 +1,88 @@
-# 💫 About Me:
-## Hey there 👋, I'm Arman Patel  <br><br><br>🔭 I’m currently working on **Java, MERN stack projects, and backend development.**  <br><br><br>💼 I’m currently doing an **internship as a Fullstack Developer**, where I’m gaining hands-on experience with **real-world projects, REST APIs, and scalable web applications.**  <br><br><br>🤝 I’m looking to collaborate on **open-source projects, MERN/Next.js apps, and game development experiments.**  <br><br><br>👐 I’m looking for help with **game development (Unity/Unreal) and advanced system design concepts.**  <br><br><br>🌱 I’m currently learning **Java EE, Hibernate, Servlets, and sharpening my DSA + problem-solving skills.**  <br><br><br>💬 Ask me about **Fullstack Web Development (MERN, Next.js, Tailwind, TypeScript), Java, or Anime (especially One Piece 🏴‍☠️).**  <br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=180&section=header&text=Hi%2C%20I'm%20Arman%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arman-patel-4aa503201/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:armanp384@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(MERN+%2B+Next.js);Final-Year+CS+Student;Building+NexusOS+%E2%80%94+a+browser-based+OS;Open+to+Full-Stack+%2F+MERN+Roles" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arman6117&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arman6117&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arman6117&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arman6117&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=USERNAME_HERE&label=Profile%20Views&color=8b5cf6&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/USERNAME_HERE?label=Followers&style=flat&color=6366f1" alt="followers"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arman6117&limit=5&theme=radical&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arman6117&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+- 🎓 Final-year **BS Computer Science** student at New Arts, Commerce, and Science College, Ahmednagar — graduating 2026
+- 💻 Full-stack developer — **MERN stack**, **Next.js** (App Router + Server Actions), **TypeScript**, **Tailwind CSS**
+- 🛠️ Currently building **[NexusOS](#)** — a browser-based OS in Next.js with macOS-style dock physics and a glassmorphic UI
+- 🤖 Shipped a **RAG-based AI document assistant** — React frontend, Gemini for generation, Qdrant for retrieval, Redis session history
+- 💼 Freelanced a full multi-page **Next.js/TypeScript/GSAP** site for a PhD consulting firm — 3 roles, 40+ pages, 100/90/100/100 Lighthouse on the dashboard route
+- 🎯 Actively **job hunting** for Full-Stack / MERN roles — open to opportunities
+- 🌸 Long-term goal: postgrad study in Japan
+- ⚡ Off-duty: anime, space, drawing, and gaming
+
+---
+
+### 🧰 Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,figma" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **NexusOS** | Next.js, Tailwind, Framer Motion | Browser-based OS · macOS-style dock physics · deep-space glassmorphic UI |
+| **RAG Document Assistant** | React, Gemini API, Qdrant, Redis | Retrieval-augmented Q&A over documents · auth · persistent chat sessions |
+| **AIS Solutions Website** | Next.js, TypeScript, Tailwind, GSAP | Client freelance build · 40+ pages · animated orbital diagrams · liquid page transitions |
+
+</div>
+
+> Replace the `#` links above with your repo URLs once pinned.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_HERE&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=6366f1"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6"/>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/USERNAME_HERE/USERNAME_HERE/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+
+> This one needs a GitHub Action — setup steps below.
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LINKEDIN_HANDLE_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" width="100%"/>
