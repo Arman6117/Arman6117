@@ -393,7 +393,8 @@
 <rect class="anim-cell" x="780" y="15" width="12" height="12" fill="#006d32" rx="2" style="animation-delay: 0.981s;" />
 <rect class="anim-cell" x="780" y="30" width="12" height="12" fill="#0e4429" rx="2" style="animation-delay: 1.026s;" />
 <rect class="anim-cell" x="780" y="45" width="12" height="12" fill="#0e4429" rx="2" style="animation-delay: 1.071s;" />
-<rect class="anim-cell" x="780" y="60" width="12" height="12" fill="#161b22" rx="2" style="animation-delay: 1.1159999999999999s;" />
+<rect class="anim-cell" x="780" y="60" width="12" height="12" fill="#0e4429" rx="2" style="animation-delay: 1.1159999999999999s;" />
+<rect class="anim-cell" x="780" y="75" width="12" height="12" fill="#161b22" rx="2" style="animation-delay: 1.161s;" />
 </g>
 <g transform="translate(52, 64)">
 <text x="60" y="0" class="label">Sep</text>
@@ -426,12 +427,12 @@
 </g>
 <g transform="translate(22, 217)">
 <rect x="0" y="0" width="825" height="45" fill="#0d1420" rx="6" />
-<text x="15" y="27" fill="#c9d1d9" font-size="14" font-weight="bold">728 contributions</text>
+<text x="15" y="27" fill="#c9d1d9" font-size="14" font-weight="bold">729 contributions</text>
 <text x="160" y="27" class="stat-label">in the last year</text>
 <rect x="430" y="5" width="120" height="35" fill="#0a0e14" rx="4" />
 <rect x="430" y="5" width="3" height="35" fill="#22d3ee" rx="1" />
 <text x="440" y="19" class="stat-label">Current Streak</text>
-<text x="440" y="34" class="stat-value">15 days</text>
+<text x="440" y="34" class="stat-value">16 days</text>
 <rect x="560" y="5" width="120" height="35" fill="#0a0e14" rx="4" />
 <rect x="560" y="5" width="3" height="35" fill="#39d353" rx="1" />
 <text x="570" y="19" class="stat-label">Longest Streak</text>
