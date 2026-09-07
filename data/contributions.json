@@ -1458,10 +1458,14 @@
     },
     {
       "date": "2026-09-06",
-      "count": 2
+      "count": 3
+    },
+    {
+      "date": "2026-09-07",
+      "count": 0
     }
   ],
-  "total": 707,
+  "total": 708,
   "current_streak": 40,
   "longest_streak": 40,
   "best_day": {
