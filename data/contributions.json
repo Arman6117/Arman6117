@@ -1,34 +1,6 @@
 {
   "days": [
     {
-      "date": "2025-09-21",
-      "count": 2
-    },
-    {
-      "date": "2025-09-22",
-      "count": 20
-    },
-    {
-      "date": "2025-09-23",
-      "count": 0
-    },
-    {
-      "date": "2025-09-24",
-      "count": 0
-    },
-    {
-      "date": "2025-09-25",
-      "count": 0
-    },
-    {
-      "date": "2025-09-26",
-      "count": 0
-    },
-    {
-      "date": "2025-09-27",
-      "count": 2
-    },
-    {
       "date": "2025-09-28",
       "count": 0
     },
@@ -1482,14 +1454,18 @@
     },
     {
       "date": "2026-09-26",
+      "count": 1
+    },
+    {
+      "date": "2026-09-27",
       "count": 0
     }
   ],
-  "total": 682,
-  "current_streak": 59,
-  "longest_streak": 59,
+  "total": 659,
+  "current_streak": 60,
+  "longest_streak": 60,
   "best_day": {
-    "date": "2025-09-22",
-    "count": 20
+    "date": "2026-01-04",
+    "count": 16
   }
 }
