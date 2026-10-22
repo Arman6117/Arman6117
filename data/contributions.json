@@ -1470,12 +1470,16 @@
     },
     {
       "date": "2026-10-21",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
       "count": 0
     }
   ],
-  "total": 642,
-  "current_streak": 84,
-  "longest_streak": 84,
+  "total": 643,
+  "current_streak": 85,
+  "longest_streak": 85,
   "best_day": {
     "date": "2026-01-04",
     "count": 16
