@@ -1470,11 +1470,19 @@
     },
     {
       "date": "2026-11-04",
-      "count": 3
+      "count": 4
+    },
+    {
+      "date": "2026-11-05",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "count": 0
     }
   ],
-  "total": 597,
-  "current_streak": 99,
+  "total": 598,
+  "current_streak": 0,
   "longest_streak": 99,
   "best_day": {
     "date": "2026-01-04",
